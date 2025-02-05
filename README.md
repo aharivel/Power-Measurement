@@ -21,3 +21,12 @@ In this repository you will find:
   - Standard libraries: `csv`, `time`, `datetime`
 - Access to a server or hardware with a BMC that supports both Redfish and IPMI.
 
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests with improvements, bug fixes, or additional code snippets related to power monitoring and measurement.
+
+## License
+This project is licensed under the Apache License. See the LICENSE file for details.
+
+## Disclaimer
+This repository is provided "as-is" without any warranties. Use it at your own risk, and please ensure that you comply with your hardware vendor's guidelines when accessing management interfaces like IPMI and Redfish.
+
